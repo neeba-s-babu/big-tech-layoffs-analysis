@@ -41,15 +41,4 @@ The dashboard highlights key KPIs and trends, including:
 
 ---
 
-## 💡 Recommendations
-- Adopt **sustainable hiring practices**
-- Invest in **employee reskilling and upskilling**
-- Ensure **transparent restructuring strategies** to reduce long-term workforce disruption
-
----
-
-## 🚀 Future Improvements
-
-- Add year-over-year financial comparisons
-- Include predictive analysis for future workforce trends
-- Expand dataset beyond Big Tech to mid-size tech firms
+ <img src="https://github.com/neeba-s-babu/big-tech-layoffs-analysis/blob/main/Images/Layoff-overview.png" alt="" />
